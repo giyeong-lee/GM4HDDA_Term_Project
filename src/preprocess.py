@@ -21,7 +21,7 @@ def load_data(source, start_date, end_date='2022-12-31'):
     
     return source.loc[date_range]
     
-def cleanse_data(data, 
+def cleanse_data(data, scale_by_digits=True,
                  exclude_currency=['AED', 'USD'], nan_threshold=.01, n_neighbors=7, 
                  save_dir=None,
                 ):
@@ -50,10 +50,11 @@ def cleanse_data(data,
                            )
     
     # Scaling by digits
-    median = data.describe().loc[['50%']]
-    digits = median.applymap(lambda x: int(np.log10(x)))
-    data = data / (10 ** (digits.values+1))
-    
+    if scale_by_digits:
+        median = data.describe().loc[['50%']]
+        digits = median.applymap(lambda x: int(np.log10(x)))
+        data = data / (10 ** (digits.values+1))
+        
     if save_dir is not None:
         os.makedirs(save_dir, exist_ok=True)
         if save_dir[-1] != '/':
