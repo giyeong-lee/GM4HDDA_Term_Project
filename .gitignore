@@ -1,0 +1,11 @@
+FX_main_old.ipynb
+Untitled.ipynb
+.ipynb_checkpoints
+
+models
+figures
+
+__pycache__
+
+*.bak
+*.pyc

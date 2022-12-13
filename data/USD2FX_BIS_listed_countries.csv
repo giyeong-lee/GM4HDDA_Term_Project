@@ -1,0 +1,82 @@
+Country,Country Code,Currency,Currency Code
+United Arab Emirates,AE,UAE dirham,AED
+Albania,AL,Lek,ALL
+Argentina,AR,Argentine peso,ARS
+Australia,AU,Australian dollar,AUD
+Bosnia and Herzegovina,BA,Bosnian convertible mark,BAM
+Bulgaria,BG,Lev,BGN
+Bahrain,BH,Bahraini dinar,BHD
+Brunei,BN,Brunei dollar,BND
+Brazil,BR,Brazilian real,BRL
+Canada,CA,Canadian dollar,CAD
+Switzerland,CH,Swiss franc,CHF
+Chile,CL,Chilean peso,CLP
+China,CN,Renminbi,CNY
+Colombia,CO,Colombian peso,COP
+Czechia,CZ,Czech koruna,CZK
+Denmark,DK,Danish krone,DKK
+Algeria,DZ,Algerian dinar,DZD
+Austria,AT,Euro,EUR
+Belgium,BE,Euro,EUR
+Cyprus,CY,Euro,EUR
+Germany,DE,Euro,EUR
+Estonia,EE,Euro,EUR
+Spain,ES,Euro,EUR
+Finland,FI,Euro,EUR
+France,FR,Euro,EUR
+Greece,GR,Euro,EUR
+Ireland,IE,Euro,EUR
+Italy,IT,Euro,EUR
+Lithuania,LT,Euro,EUR
+Luxembourg,LU,Euro,EUR
+Latvia,LV,Euro,EUR
+Malta,MT,Euro,EUR
+Netherlands,NL,Euro,EUR
+Portugal,PT,Euro,EUR
+Slovenia,SI,Euro,EUR
+Slovakia,SK,Euro,EUR
+Euro area,XM,Euro,EUR
+United Kingdom,GB,Pound (sterling),GBP
+Hong Kong SAR,HK,Hong Kong dollar,HKD
+Croatia,HR,Kuna,HRK
+Hungary,HU,Forint,HUF
+Indonesia,ID,Rupiah,IDR
+Israel,IL,New shekel,ILS
+India,IN,Indian rupee,INR
+Iran,IR,Iranian rial,IRR
+Iceland,IS,Icelandic krona,ISK
+Japan,JP,Yen,JPY
+Korea,KR,Won,KRW
+Kuwait,KW,Kuwaiti dinar,KWD
+Kazakhstan,KZ,Tenge,KZT
+Sri Lanka,LK,Sri Lanka rupee,LKR
+North Macedonia,MK,Denar,MKD
+Mauritius,MU,Mauritius rupee,MUR
+Mexico,MX,Mexican peso,MXN
+Malaysia,MY,Malaysian ringgit,MYR
+Norway,NO,Norwegian krone,NOK
+Nepal,NP,Nepalese rupee,NPR
+New Zealand,NZ,New Zealand dollar,NZD
+Oman,OM,Omani rial,OMR
+Peru,PE,Sol,PEN
+Philippines,PH,Philippine peso,PHP
+Pakistan,PK,Pakistan rupee,PKR
+Poland,PL,Zloty,PLN
+Qatar,QA,Qatari riyal,QAR
+Romania,RO,Romanian leu,RON
+Serbia,RS,Serbian Dinar,RSD
+Russia,RU,Russian rouble,RUB
+Saudi Arabia,SA,Saudi riyal,SAR
+Sweden,SE,Swedish krona,SEK
+Singapore,SG,Singapore dollar,SGD
+Thailand,TH,Baht,THB
+Tunisia,TN,Tunisian dinar,TND
+Turkey,TR,Turkish lira,TRY
+Trinidad and Tobago,TT,Trinidad and Tobago dollar,TTD
+Chinese Taipei,TW,New Taiwan dollar,TWD
+Ukraine,UA,Hryvnia,UAH
+United States,US,US dollar,USD
+Uruguay,UY,Uruguayan peso,UYU
+Venezuela,VE,Bolivar,VEF
+World,XW,Special drawing right,XDR
+South Africa,ZA,South African Rand,ZAR
