@@ -4,6 +4,7 @@ Untitled.ipynb
 
 models
 figures
+*.h5
 
 __pycache__
 

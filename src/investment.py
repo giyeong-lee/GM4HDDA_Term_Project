@@ -109,4 +109,4 @@ class Investment:
             neg_sharpe_ratio, position_values, portfolios = self._trade(valid_data)
             sharpe_ratio = - neg_sharpe_ratio.detach().cpu()
             if sharpe_ratio > prev_max_sharpe:
-                torch.save(self.rebalance.state_dict(), './investment_result/models/' + save_name)
+                torch.save(self.rebalance.state_dict(), './results/investment/models/' + save_name)
