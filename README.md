@@ -1,2 +1,2 @@
-# GM4HDDA Term Project
-- Giyeong Lee (2020-24779), Dept. of Industrial Enginnering
+# (2022-Fall) GM4HDDA Term Project
+- Giyeong Lee, Dept. of Industrial Enginnering

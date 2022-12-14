@@ -7,4 +7,3 @@ def jacobian(f, z, mode='fwd'):
         J = jacrev(f)(z).sum(dim=0).transpose(0, 1)
     
     return J
-    
